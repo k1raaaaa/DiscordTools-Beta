@@ -3,21 +3,8 @@ DiscordTools version Beta
 
 Please Download :
 
-```pip install colorama
-
-pip install webbrowser
-
-pip install requests
-
-pip install BeautifulSoup
-
-pip install discord
-
-pip install DiscordWebhook
-
-pip install DiscordEmbed
-
-pip install requests
+```
+Click on install.bat and start the programe !
 ```
 
 for probleme:
