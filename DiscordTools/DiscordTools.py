@@ -16,11 +16,12 @@ def main():
   | | ___   ___ | |___  | | | |_ ___  ___ ___  _ __ __| |
   | |/ _ \ / _ \| / __| | | | | / __|/ __/ _ \| '__/ _` |
   | | (_) | (_) | \__ \ | |/ /| \__ \ (_| (_) | | | (_| |
-  \_/\___/ \___/|_|___/ |___/ |_|___/\___\___/|_|  \__,_|     BETA
+  \_/\___/ \___/|_|___/ |___/ |_|___/\___\___/|_|  \__,_|     
+  
 
 
 """ + Style.RESET_ALL)
-    print(Fore.MAGENTA +"\n\nCreate by Zerfox | My github is https://github.com/pommepoirechocolat  | BETA\n\n" + Style.RESET_ALL)
+    print(Fore.MAGENTA +"\n\nCreate by k1ra | My github is https://github.com/k1raaaaa  | OFFICIAL VERSION | Copyright 2022\n\n" + Style.RESET_ALL)
 
     n = input("""           [1] Gen        [2] Webhook        [3] token     [4]Raid\n\nChoisie un nombre:  """)
     if n == '1':
